@@ -1,25 +1,4 @@
-
-<h1 align="center">Centre-for-Career-Planning-and-Services-Portal</h1>
-
-<p align="center">
-A robust Job Portal Application that streamlines job searching, application management, and community interactions for students, alumni, and CCPS professionals.Also Manages the HR Contacts,Logsand their responses(Upcomming).
-</p>
-
-<p align="center">
-    <img src="https://img.shields.io/badge/Status-Deployed-brightgreen" alt="Status: Deployed" />
-    <img src="https://img.shields.io/badge/Development-Ongoing-blue" alt="Development: Ongoing" />
-    <img src="https://img.shields.io/badge/License-MIT-yellow" alt="License: MIT" />
-</p>
-<p align="center"> 
-    <img src="https://img.shields.io/github/issues-pr-closed/OpenLake/Centre-for-Career-Planning-and-Services-Portal
-?color=success" alt="Pull Requests Merged" />
-    <img src="https://img.shields.io/github/issues/OpenLake/Centre-for-Career-Planning-and-Services-Portal
-?color=orange" alt="Open Issues" />
-    <img src="https://img.shields.io/github/contributors/OpenLake/Centre-for-Career-Planning-and-Services-Portal
-" alt="Contributors" />
-</p>
-
----
+# Created from original CCPS project for Techsprint.
 
 ## Repository Links
 - **Main Repository:** [OpenLake](https://github.com/OpenLake)
@@ -212,34 +191,4 @@ Centre-for-Career-Planning-and-Services-Portal/
 4. **Open the application in your browser**:
    - Navigate to `http://localhost:5173` to view the frontend application.
    - The backend server should be running on `http://localhost:5000` (or the port specified in your `.env` file).
-
-
-   
----
-
-## Maintainers
-[↥ Back to top](#table-of-contents)
-
-This project is maintained by:
-
-- [Umap Utkarsh Sharac](https://github.com/UtkarshUmap)
-- [Neil Chitale](https://github.com/Neil-ctrl)
-
----
-
-## Contributing
-[↥ Back to top](#table-of-contents)
-
-We welcome contributions! Feel free to open an issue or submit a pull request. Before contributing, please make sure to:
-
-1. Fork the repository.
-2. Create a new branch.
-3. Submit a pull request with your changes.
-
----
-
-## Contact
-[↥ Back to top](#table-of-contents)
-
-If you have any questions or feedback, feel free to reach out to the maintainers.
 
